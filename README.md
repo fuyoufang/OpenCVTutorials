@@ -25,7 +25,7 @@ OpenCV-Python Tutorials官方文档：https://docs.opencv.org/4.1.2/d6/d00/tutor
     
 *   <span class="caption-text">OpenCV中的GUI特性</span>
 
-    *   [2_1_图像入门](http://www.woshicver.com/ThirdSection/2_1_图像入门/)
+    *   [2_1_图像入门](./ThirdSection/2_1_图像入门.md)
     *   [2_2_视频入门](http://www.woshicver.com/ThirdSection/2_2_视频入门/)
     *   [2_3_OpenCV中的绘图功能](http://www.woshicver.com/ThirdSection/2_3_OpenCV中的绘图功能/)
     *   [2_4_鼠标作为画笔](http://www.woshicver.com/ThirdSection/2_4_鼠标作为画笔/)
